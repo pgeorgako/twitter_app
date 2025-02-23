@@ -71,7 +71,7 @@ group :test do
   gem 'guard-minitest'
 
 end
-gem "concurrent-ruby", "1.3.4"
+gem "concurrent-ruby", "1.3.5"
 
 gem 'sass-rails'
 gem 'uglifier'
